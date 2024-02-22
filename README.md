@@ -2,6 +2,7 @@
 
 This GitHub repository contains a Python script that utilizes OpenCV to perform real-time face detection and counting using your webcam. It's perfect for event organizers, researchers, or anyone interested in analyzing crowds or experimenting with computer vision.
 
+![det](https://github.com/laibashakil/Real-time-Face-Counter/assets/96187426/f04c9618-09e1-4fe1-b94c-b6efe5661cba)
 ### Features:
 
 -   **Real-time detection:** Accurately detects faces in live video streams from your webcam.
