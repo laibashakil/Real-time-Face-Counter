@@ -18,12 +18,11 @@ This GitHub repository contains a Python script that utilizes OpenCV to perform 
 
 ### How to use:
 
-2.  Clone this repository or download the script.
-4.  Install the required dependencies using `pip install -r requirements.txt`.
-6.  Run the script:  `python main.py`.
-8.  Point your webcam towards the area you want to analyze.
-10.  The script will display the video feed with bounding boxes around detected faces and the total count.
-12.  Press `q` to exit the application.
+1.  Clone this repository or download the script.
+2.  Run the script:  `python main.py`.
+3.  Point your webcam towards the area you want to analyze.
+4.  The script will display the video feed with bounding boxes around detected faces and the total count.
+5.  Press `q` to exit the application.
 
 ### Contributing:
 
